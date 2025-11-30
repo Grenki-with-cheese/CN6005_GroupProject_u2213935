@@ -15,13 +15,13 @@ The linear regression model will be evaluated using Mean Squared Error (MSE), Ro
 The structure of the project will be such that we will KEEP EACH MODEL on SEPARATE .IPYNB FILE.
 For instance:
 
-ML_Logisticregression.ipynb
-ANN_model.ipynb
-CNN_model.ipynb
+- ML_Logisticregression.ipynb
+- ANN_model.ipynb
+- CNN_model.ipynb
 
-LR_model.ipynb
+- LR_model.ipynb
 
-CN6005_Final.ipynb <---- we will combine the code at the end here in correct order with comments and all
+- CN6005_Final.ipynb <---- we will combine the code at the end here in correct order with comments and all
 
 TO AVOID MERGING CONFLICTS, MAKE SURE TO WORK ON ONE FILE AT A TIME. IF YOU WOULD LIKE TO WORK CONCURRENTLY DO NOT JUST PULL FROM GITHUB.
 The EXACT steps to follow in such case would be:

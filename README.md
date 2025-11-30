@@ -8,6 +8,10 @@ WHAT WE WILL CREATE:
 - 3 multiclass image classification models: Logistic Regression(Machine Learning) and Artificial Neural Network using Keras, Convolutional neural Network using Keras (Deep Learning).
 - 1 linear regression model.
 
+WHICH DATASETS WE WILL USE:
+- For Part 1: FashionMNIST from https://www.kaggle.com/datasets/zalando-research/fashionmnist 
+- For part 2: WineQuality Red dataset from https://archive.ics.uci.edu/dataset/186/wine+quality (Cortez, et al., 2009)
+
 HOW WE WILL EVALUATE:
 The image classification models shall be evaluated using accuracy, confusion matrix and suitable metrics (precision, recall, F-1 score), the model predictions will be interpreted using techniques such as Grad-CAM, LIME or (or) SHAP.
 
